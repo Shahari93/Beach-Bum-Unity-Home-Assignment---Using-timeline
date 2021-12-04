@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Junior_Test_Shahar_Ilani.unity
+    path: Assets/Scenes/Junior_Test_Shahar_Ilani - Using Timeline.unity
     guid: dafea2ba241fc5e44b91be2a4d227b12
   m_configObjects: {}
